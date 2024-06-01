@@ -9,9 +9,12 @@
 
 
 
-
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/apiAdri22K=anuraghazra&show_icons=true&theme=dracula" alt="Primeiro github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/Adri22K=anuraghazra&layout=compact)" />
+  <a  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api?username=Adri22K](https://github-readme-stats.vercel.app/api?username=Adri22K)](https://github.com/anuraghazra/github-readme-stats))" />
+</a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="[https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Adri22K&layout=compact) />
+</a>
 </div>
 
