@@ -1,9 +1,5 @@
-<p align="center">
-  <h3 align="center"> 🌺 Bem vindos ao meu perfil! </h3>
-</p>
-
 ![banner (1)](https://github.com/Adri22K/Adri22K/assets/168793109/5cd84067-e2ad-4298-946e-6296281e03cc)
 
 <p align="center">
-
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=28&duration=4990&pause=1000&color=EDC5F8&center=true&vCenter=true&random=false&width=540&lines=%22Hi%2C+I'm+Adri%2C+and+I'm+learning+to+program!%22)](https://git.io/typing-svg) </p>
+  <img src="https://readme-typing-svg.demolab.com/?font=Pacifico&size=28&duration=4990&pause=1000&color=EDC5F8&center=true&vCenter=true&multiline=true&random=true&width=540&lines=%F0%9F%8C%BA+Hi%2C+welcome+to+my+profile!+I'm+Adrielle+and+I'm+a+programming+student!" alt="Typing SVG" /></a>
+</p>
