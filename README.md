@@ -1,5 +1,5 @@
 <picture>
-<img width="100%" height="100%" src="./banner.png" alt="banner"/>
+![banner](https://github.com/Adri22K/Adri22K/assets/168793109/8835f393-2314-48eb-8802-20dea360ae89)
 </picture>
 
 <br />
