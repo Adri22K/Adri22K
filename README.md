@@ -7,21 +7,22 @@
 
 ##
 
-<div align="center" > 
-    <img width="50%" height="100px"src="https://github-readme-stats.vercel.app/api?username=Adri22K&show_icons=true&theme=dracula" alt="Estatiscas do GitHub/>
-    
-<div align="center"> 
-    <img width="50%" height="100px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adri22K&layout=compact&theme=dracula"  alt="Linguagens de programação dos repositórios/>
+<div> 
+    <img align="left" width="50%" height="100px"src="https://github-readme-stats.vercel.app/api?username=Adri22K&show_icons=true&theme=dracula" alt="Estatiscas do GitHub/>
+
+<div > 
+    <img align="right" width="50%" height="100px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adri22K&layout=compact&theme=dracula"  alt="Linguagens de programação dos repositórios/>
 
 </br>
 
 
-
+<div> 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,c,html,css,java,js,mysql,php,postgres" />
   </a>
 </p>
+</div>
 
 ##
 
