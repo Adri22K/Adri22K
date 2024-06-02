@@ -31,7 +31,9 @@
 <a href="https://www.instagram.com/a.stollemberger/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
-<picture>
+</br>
+
   <source media="prefers-color-scheme: dark" srcset="github-snake-dark.svg" />
   <img alt="github-snake" src="github-snake-dark.svg" />
-</picture>
+
+
