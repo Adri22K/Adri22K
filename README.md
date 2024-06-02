@@ -3,8 +3,6 @@
 <a text-aling="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&duration=3000&pause=1000&color=EDC5F8&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=550&height=100&lines=++++++++++++%F0%9F%8C%BA+Hi%2C+welcome+to+my+profile!;+I'm+Adrielle+and+I'm+a+programming+student!" alt="Typing SVG" /></a>
 </div>
 
-</br>
-
 ##
 
 <div align="center" > 
