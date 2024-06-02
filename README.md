@@ -11,7 +11,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Adri22K&show_icons=true&theme=dracula" alt="Estatiscas do GitHub"/>
 
 <div align="center" > 
-    <img width="50%" height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adri22K&layout=compact&theme=dracula"  alt="Linguagens de programação dos repositórios"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adri22K&layout=compact&theme=dracula"  alt="Linguagens de programação dos repositórios"/>
 
 </br>
 
