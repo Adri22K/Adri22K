@@ -7,11 +7,9 @@
 
 ##
 
-<div align="right" > 
-    <img src="https://github-readme-stats.vercel.app/api?username=Adri22K&show_icons=true&theme=dracula" alt="Estatiscas do GitHub"/>
-
-<div align="left" > 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adri22K&layout=compact&theme=dracula"  alt="Linguagens de programação dos repositórios"/>
+<div align="center" > 
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Adri22K&show_icons=true&theme=dracula" alt="Estatiscas do GitHub"/>
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adri22K&layout=compact&theme=dracula"  alt="Linguagens de programação dos repositórios"/>
 
 </br>
 
