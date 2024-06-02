@@ -1,4 +1,6 @@
-![banner (1)](https://github.com/Adri22K/Adri22K/assets/168793109/5cd84067-e2ad-4298-946e-6296281e03cc)
+<picture>
+<img width="100%" height="100%" src="./banner.png" alt="banner"/>
+</picture>
 
 <br />
 
