@@ -27,6 +27,7 @@
 <div align="center"> 
 
 <a href = "mailto:stollemberger35@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  style="border-radius: 30px" target="_blank"></a>
+<a href="https://www.linkedin.com/in/adrielle-stollemberger-890207207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://discord.gg/9NtTgDS7" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 <a href="https://www.instagram.com/a.stollemberger/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 <a href="https://acrobat.adobe.com/id/urn:aaid:sc:US:0f20d826-e9c1-4340-b348-4a329710f239" target="_blank"><img src="https://img.shields.io/badge/Portfolio-4A154B?style=for-the-badge&logo=Opsgenie&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
