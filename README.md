@@ -12,7 +12,8 @@
 
                             Atualmente auto com análise dados e prevenção a fraudes.
                             Tenho grande apreço pela área financeira, Risk e Complice.
-                   Por enquanto aqui você encontra alguns dos meus trabalhos e estudos durante a graduação.
+                            Por enquanto aqui você encontra alguns dos meus trabalhos
+                                  e estudos durante a graduação.
   
 ```
 
