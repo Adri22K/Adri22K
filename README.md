@@ -8,14 +8,11 @@
   <h3>Analista de Prevenção a Fraudes | Dados, Risco e Compliance</h3>
 </p>
 
-```text
+`Atualmente auto com análise dados e prevenção a fraudes.
+Tenho grande apreço pela área financeira, Risk e Complice.
+Por enquanto aqui você encontra alguns dos meus trabalhos
+e estudos durante a graduação.`
 
-                            Atualmente auto com análise dados e prevenção a fraudes.
-                            Tenho grande apreço pela área financeira, Risk e Complice.
-                            Por enquanto aqui você encontra alguns dos meus trabalhos
-                                  e estudos durante a graduação.
-  
-```
 
 <h3 align="center">Tecnologias</h3>
 
